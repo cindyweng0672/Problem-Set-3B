@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=Main()
+comment2.params=playerChoice
+comment2.target=java.lang.String\ chooseWeapon(java.lang.String)
+numComments=3
